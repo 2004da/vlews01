@@ -1,0 +1,12 @@
+{
+	"name": "cloud disk",
+	"version": "0.0.3",
+	"description": "code space",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"engines": {
+		"node": ">=18"
+	}
+}
